@@ -104,7 +104,7 @@ Join our community to discuss ideas, ask questions, and share your projects:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Disclaimers
+## ⚠️ Disclaimers
 
 This project is intended for demonstration purposes only. It is not intended for use in a production environment.
 
