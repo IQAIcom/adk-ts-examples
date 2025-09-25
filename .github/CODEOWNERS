@@ -6,18 +6,6 @@
 # people who know the code best.
 # 
 # Format: path/pattern @username @team
-# 
-# Examples:
-#   /examples/web-app/ @web-team @creator-username
-#   /examples/cli-tool/ @cli-maintainer
-#   *.md @documentation-team
-#
-
-# Global fallback - applies to everything unless overridden below
-* @IQAIcom
-
-# Add specific sample project owners below:
-# /path/to/sample/ @sample-creator
 
 # IQ Flights
 /examples/iq-flights/ @Adebesin-Cell 
