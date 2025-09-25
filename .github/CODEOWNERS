@@ -1,0 +1,23 @@
+# CODEOWNERS file for adk-ts-samples
+#
+# This file defines individuals or teams responsible for code in this repository.
+# Code owners are automatically requested for review when someone opens a pull request
+# that modifies code they own. This ensures proper review and approval from the
+# people who know the code best.
+# 
+# Format: path/pattern @username @team
+# 
+# Examples:
+#   /examples/web-app/ @web-team @creator-username
+#   /examples/cli-tool/ @cli-maintainer
+#   *.md @documentation-team
+#
+
+# Global fallback - applies to everything unless overridden below
+* @IQAIcom
+
+# Add specific sample project owners below:
+# /path/to/sample/ @sample-creator
+
+# IQ Flights
+/examples/iq-flights/ @Adebesin-Cell 
